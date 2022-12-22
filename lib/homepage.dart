@@ -233,7 +233,7 @@ class _homepageState extends State<homepage> {
                             ),
                           ),
                           Text(
-                            " Starbucks",
+                            " Hindustan Unilever",
                             style: TextStyle(fontWeight: FontWeight.bold),
                           )
                         ],
@@ -331,7 +331,7 @@ class _homepageState extends State<homepage> {
                             ),
                           ),
                           Text(
-                            " Starbucks",
+                            " Bharat Petroleum",
                             style: TextStyle(fontWeight: FontWeight.bold),
                           )
                         ],
@@ -429,7 +429,7 @@ class _homepageState extends State<homepage> {
                             ),
                           ),
                           Text(
-                            " Starbucks",
+                            " ITC",
                             style: TextStyle(fontWeight: FontWeight.bold),
                           )
                         ],
